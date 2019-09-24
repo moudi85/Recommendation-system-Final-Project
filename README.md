@@ -11,5 +11,6 @@ In this project I will show how to use both Metadata and audio features data to 
 
 ### Data Mining
 
-<p style="color: red" >test</p>
+<p style="color: blue" >test</p>
 
+#347E5E --> <p style="color: #347E5E">#347E5E</p>
