@@ -12,6 +12,6 @@ In this project I will show how to use both Metadata and audio features data to 
 ### Data Mining
 
 ```diff
-### Data Mining.text in blue
+### Data Mining # text in blue
 ```
-
+### Data Mining
