@@ -7,4 +7,6 @@ Current music recommender systems use user-generated meta-data, such as previous
 
 In this project I will show how to use both Metadata and audio features data to recommend songs using Content-Based Filtering recommendation. I closely examines the actual item to determine which features, in my opinion, are most important in making recommendations and how those features interact with the user’s preferences. Data collection can be much more complicated in content-based filtering as it is very difficult to select which features of an item will be important in creating some sort of predictive model.
 
+## Repository Contents
+- Data Mining 
 
