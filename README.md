@@ -10,7 +10,4 @@ In this project I will show how to use both Metadata and audio features data to 
 ## Repository Contents
 
 ### Data Mining
-
-<p style="color: blue" >test</p>
-
-#347E5E --> <p style="color: #347E5E">#347E5E</p>
+<span style=“color:green;”> Data Mining </span>
