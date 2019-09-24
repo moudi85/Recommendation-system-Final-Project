@@ -10,3 +10,10 @@ In this project I will show how to use both Metadata and audio features data to 
 ## Repository Contents
 ### Data Mining
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
