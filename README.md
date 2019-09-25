@@ -5,10 +5,16 @@ Today online music streaming has becomes the dominant platform for people to lis
 
 Current music recommender systems use user-generated meta-data, such as previous purchases and listening history, as the basis for the recommendations. However, such metadata-based systems cannot recommend artists or songs for which there is no data available (i.e., new songs or artists). This ”cold start” problem has made researchers focus on improving content-based recommender systems, which use audio features extracted automatically from the audio content as the basis for recommendations.
 
-In this project I will show how to use both Metadata and audio features data to recommend songs using Content-Based Filtering recommendation. I closely examines the actual item to determine which features, in my opinion, are most important in making recommendations and how those features interact with the user’s preferences. Data collection can be much more complicated in content-based filtering as it is very difficult to select which features of an item will be important in creating some sort of predictive model.
+In this project I will show how to use both spotify API Metadata and audio features data to recommend songs using Content-Based Filtering recommendation. I closely examines the actual item to determine which features, in my opinion, are most important in making recommendations and how those features interact with the user’s preferences. Data collection can be much more complicated in content-based filtering as it is very difficult to select which features of an item will be important in creating some sort of predictive model.
 
 ## Repository Contents
 
-### Data Mining
+### Data Collection
+### Exploratory Data Analysis
+### Content-Based Filtering
+### Songs Input
 
-<span style="color: red;">text</span>
+## Data Collection
+
+
+
