@@ -15,5 +15,8 @@ In this project I will show how to use both spotify API Metadata and audio featu
 #### Songs Input
 
 ### Data Collection 
+Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy).  
+
+
 
 
