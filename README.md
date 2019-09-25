@@ -9,7 +9,7 @@ In this project I will show how to use both spotify API Metadata and audio featu
 
 ## Repository Contents
 
-#### Data Collection
+[#### Data Collection](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#data-collection-1)
 #### Exploratory Data Analysis
 #### Content-Based Filtering
 #### Songs Input
