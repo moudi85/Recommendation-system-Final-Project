@@ -9,10 +9,10 @@ In this project I will show how to use both spotify API Metadata and audio featu
 
 ## Repository Contents
 
-### Data Collection
-### Exploratory Data Analysis
-### Content-Based Filtering
-### Songs Input
+#### Data Collection
+#### Exploratory Data Analysis
+#### Content-Based Filtering
+#### Songs Input
 
 ## Data Collection
 
