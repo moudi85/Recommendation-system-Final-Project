@@ -37,12 +37,16 @@ Most pouplar singer based on my data was "Post Malone"
 
 Finding and determining what audio contents will be important in a music recommender system, is so difficult and it varies from user to user. Music information retrieval refers to the scientific field of extracting information about music and its audio content based on audio signal processing and using that information to make meaningful conclusions about a music item and how it relates to other music. Content-Based filtering closely examines the actual item to determine which features are most important in making recommendations and how those features interact with the user’s preferences. Based on the similarity between the music items and its contents(Genres, Popularity, Energy, Valence, Danceability), we will be able to recommend similar songs to the music inputs for the user.
 
-The Content-Based filtering uses some specific similarity metric, which is Cosine Similarity. Cosine Similarity measures the similarity between two vectors by calculating the cosine of the angle between them. The cosine of a 0-degree angle is 1, therefore the closer to 1 the cosine similarity is; the more similar the items are. Based on the. cosine similarity, 'Boomerang' song closest to my recommendation was ‘Birds' by "imagine dragons".
+The Content-Based filtering uses some specific similarity metric, which is Cosine Similarity. Cosine Similarity measures the similarity between two vectors by calculating the cosine of the angle between them. The cosine of a 0-degree angle is 1, therefore the closer to 1 the cosine similarity is; the more similar the items are. 
 
 ![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Cosine%20Similarity%20.png)
 
 
+### Songs Input
 
+Based on the cosine similarity, 'Boomerang' song closest to my recommendation was ‘Birds' by "imagine dragons".
+
+![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Recommendation.png)
 
 
 
