@@ -12,24 +12,27 @@ In this project, I will show how to use both Spotify API Metadata and audio feat
 
 #### [Data Collection](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#data-collection-1)
 #### [Exploratory Data Analysis](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#exploratory-data-analysis-1) 
-#### Content-Based Filtering [Model]
+#### [Content-Based Filtering](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#content-based-filtering-model-1) [[Model](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#content-based-filtering-model-1)]
 #### Songs Input
 
 ### Data Collection 
 Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy). They will be later used as my independent variables, in addition, to (Popularity). I must note that this choice was based on a personal taste and it might be different from person to perosn.
 
-
 ### Exploratory Data Analysis
 
-![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Spotifinal%20DF.png)
-Of all genres I decided to group them into 12 genre categories [Pop,Rap,Hip Hop,Rock,House,R&B,Indie,Country,Latin,Metal,Folk,Blues]. Since my objective was to make recommendations based on artists genres.
+![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20distribution%20.png)
+Of all genres I decided to group them into 12 genre categories [Pop, Rap, Hip Hop, Rock ,House ,R&B ,Indie ,Country ,Latin ,Metal ,Folk ,Blues]. Since my objective was to make recommendations based on artists genres.
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20Distributions%20.png)
 
-I aslo converted "Popularity" variable into three classifications [Unpopular , Popular . Very Popular]
+I aslo converted "Popularity" variable into three classifications [Unpopular = 0 , Popular = 1 , Very Popular = 2]
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
 
+Most pouplar singer based on my data was "Post Malone" 
+![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Popular%20artist.png)
+
+### Content-Based Filtering [Model]
 
 
 
