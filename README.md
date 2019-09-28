@@ -6,7 +6,8 @@ Today,  online music streaming has become the dominant platform for people to li
 
 Current music recommender systems use user-generated meta-data, such as previous purchases and listening history, as the basis for the recommendations. However, such metadata-based systems cannot recommend artists or songs for which there is no data available (i.e., new songs or artists). This ”cold start” problem has made researchers focus on improving content-based recommender systems, which use audio features extracted automatically from the audio content as the basis for recommendations.
 
-In this project, I will show how to use both Spotify API Metadata and audio features data to recommend songs using Content-Based Filtering recommendation. I closely examine the actual item to determine which features, in my opinion, are most important in making recommendations and how those features interact with the user’s preferences. Data collection can be much more complicated in content-based filtering as it is very difficult to select which features of an item will be important in creating some sort of predictive model.
+In this project, I will show how to use both Spotify API Metadata and audio features data to recommend songs using Content-Based Filtering recommendation. Content-based filtering algorithms are given user preferences for items and recommend similar items based on a domain-specific notion of item content. This approach also extends naturally to cases where item metadata is available (In our case music genres).
+I closely examine the actual item to determine which features, in my opinion, are most important in making recommendations and how those features interact with the user’s preferences. Data collection can be much more complicated in content-based filtering as it is very difficult to select which features of an item will be important in creating some sort of predictive model.
 
 ## Repository Contents
 
@@ -34,7 +35,11 @@ Most pouplar singer based on my data was "Post Malone"
 
 ### Content-Based Filtering [Model]
 
+Finding and determining what audio contents will be important in a music recommender system, is so difficult and it varies from user to user. Music information retrieval refers to the scientific field of extracting information about music and its audio content based on audio signal processing and using that information to make meaningful conclusions about a music item and how it relates to other music. Content-Based filtering closely examines the actual item to determine which features are most important in making recommendations and how those features interact with the user’s preferences. Based on the similarity between the music items and its contents(Genres, Popularity, Energy, Valence, Danceability), we will be able to recommend similar songs to the music inputs for the user.
 
+The Content-Based filtering uses some specific similarity metric, which is Cosine similarity. Cosine similarity measures the similarity between two vectors by calculating the cosine of the angle between them. The cosine of a 0-degree angle is 1, therefore the closer to 1 the cosine similarity is the more similar the items are. Based on cosine similarity, Boomerang song closest to my rec was ‘Birds: ’imagine dragons.
+
+![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Cosine%20Similarity%20.png)
 
 
 
