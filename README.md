@@ -15,7 +15,7 @@ In this project I will show how to use both spotify API Metadata and audio featu
 #### Songs Input
 
 ### Data Collection 
-Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy). I must note that this choice was based on a personal tatse and it might be different from person to perosn.
+Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy). They will be later used as my independent variables, in addition, to (Popularity). I must note that this choice was based on a personal taste and it might be different from person to perosn.
 
 
 ### Exploratory Data Analysis
@@ -29,7 +29,7 @@ I aslo converted "Popularity" variable into three classifications [Unpopular , P
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
 
-The main 
+
 
 
 
