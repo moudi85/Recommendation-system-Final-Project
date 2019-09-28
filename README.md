@@ -14,7 +14,7 @@ I closely examine the actual item to determine which features, in my opinion, ar
 #### [Data Collection](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#data-collection-1)
 #### [Exploratory Data Analysis](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#exploratory-data-analysis-1) 
 #### [Content-Based Filtering](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#content-based-filtering-model-1) [[Model](https://github.com/moudi85/Music-Recommender-/blob/master/README.md#content-based-filtering-model-1)]
-#### Songs Input
+#### [Songs Input](
 
 ### Data Collection 
 Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy). They will be later used as my independent variables, in addition, to (Popularity). I must note that this choice was based on a personal taste and it might be different from person to perosn.
