@@ -25,10 +25,11 @@ Of all genres I decided to group them into 12 genre categories [Pop,Rap,Hip Hop,
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20Distributions%20.png)
 
-I aslo converted "Popularity" variable into three classifications [Unpopular,Popular,Very Popular]
+I aslo converted "Popularity" variable into three classifications [Unpopular , Popular . Very Popular]
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
 
+l
 
 
 
