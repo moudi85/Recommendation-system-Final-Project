@@ -21,14 +21,16 @@ Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained
 
 ### Exploratory Data Analysis
 
-![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Spotifinal%20DF.png)
+![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20distribution%20.png)
 Of all genres I decided to group them into 12 genre categories [Pop,Rap,Hip Hop,Rock,House,R&B,Indie,Country,Latin,Metal,Folk,Blues]. Since my objective was to make recommendations based on artists genres.
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20Distributions%20.png)
 
-I aslo converted "Popularity" variable into three classifications [Unpopular , Popular . Very Popular]
+I aslo converted "Popularity" variable into three classifications [Unpopular = 0 , Popular = 1 , Very Popular = 2]
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
+
+Most pouplar singer based on my data was 
 
 
 
