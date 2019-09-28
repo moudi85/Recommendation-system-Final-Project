@@ -29,7 +29,12 @@ I aslo converted "Popularity" variable into three classifications [Unpopular , P
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
 
-l
+The main 
+
+
+
+
+
 
 
 
