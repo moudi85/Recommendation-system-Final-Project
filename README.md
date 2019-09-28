@@ -30,7 +30,8 @@ I aslo converted "Popularity" variable into three classifications [Unpopular = 0
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Artist%20Popularity%20.png)
 
-Most pouplar singer based on my data was 
+Most pouplar singer based on my data was "Post Malone" 
+![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Popular%20artist.png)
 
 
 
