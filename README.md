@@ -22,7 +22,7 @@ Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained
 ### Exploratory Data Analysis
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20distribution%20.png)
-Of all genres I decided to group them into 12 genre categories [Pop,Rap,Hip Hop,Rock,House,R&B,Indie,Country,Latin,Metal,Folk,Blues]. Since my objective was to make recommendations based on artists genres.
+Of all genres I decided to group them into 12 genre categories [Pop, Rap, Hip Hop, Rock ,House ,R&B ,Indie ,Country ,Latin ,Metal ,Folk ,Blues]. Since my objective was to make recommendations based on artists genres.
 
 ![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20Distributions%20.png)
 
