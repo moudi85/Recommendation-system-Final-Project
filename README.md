@@ -44,7 +44,7 @@ The Content-Based filtering uses some specific similarity metric, which is Cosin
 
 ### Songs Input
 
-Based on the cosine similarity, 'Boomerang' song closest to my recommendation was ‘Birds' by "imagine dragons".
+Based on the cosine similarity, 'Boomerang' song closest to my recommendation was ‘Birds' by "Imagine Dragons".
 
 ![](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Recommendation.png)
 
