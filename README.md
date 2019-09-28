@@ -17,11 +17,13 @@ In this project I will show how to use both spotify API Metadata and audio featu
 ### Data Collection 
 Using Spotify API, I acquired 10,000 data points from year 2018. I also obtained the audio features of that dataset, then I merged both data for the final dataframe. Of the total audio features, I decided to pick three features that have an impact on the mood of the user ( Danceability, Valence and Energy). I must note that this choice was based on a personal tatse and it might be different from person to perosn.
 
-![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Spotifinal%20DF.png)
 
 ### Exploratory Data Analysis
 
+![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Spotifinal%20DF.png)
 Of all the genres I decided to group all different genres into 12 genre categories [Pop,Rap,Hip Hop,Rock,House,R&B,Indie,Country,Latin,Metal,Folk,Blues]. Since my objective was to make reeommendations based on artists genres.
+
+![Optional Text](https://github.com/moudi85/Music-Recommender-/blob/master/Images/Genres%20Distributions%20.png)
 
 
 
